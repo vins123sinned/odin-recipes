@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project focuses on building an html recipe website based on what I have learned when doing the HTML Section of The Odin Project's foundational course. By the end of this project, I will have reinforced my knowledge of basic HTML from creating the boilerplates to some of the basic elements like headings and links. This project serves as sort of a tutorial since it is my first project of the curriculum, meaning that it is meant to hold hands while I get used to creating code in Visual Studio Code.
