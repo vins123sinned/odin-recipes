@@ -1,0 +1,31 @@
+body {
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+    background-color: #faebd7;
+}
+
+.main-header {
+    text-align: center;
+}
+
+.secondary-header {
+    color: magenta;
+    font-weight: lighter;
+}
+
+.text {
+    background-color: #f2e3d0;
+    text-align: center;
+    font-size: 18px;
+}
+
+.list {
+    background-color: beige;
+}
+
+.list.home-list {
+    font-size: 22px;
+}
+
+.home-link {
+    font-weight: bold;
+}
